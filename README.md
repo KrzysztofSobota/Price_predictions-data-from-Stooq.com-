@@ -1,0 +1,1 @@
+# Price_predictions-data-from-Stooq.com-
